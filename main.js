@@ -14,6 +14,7 @@ navLink.forEach(link =>{
         hamburger.classList.toggle('ri-close-large-fill');
     })
 })
+
 /*~~~~~~~~~~~~~~~ SHOW SCROLL UP ~~~~~~~~~~~~~~~*/
 
 
